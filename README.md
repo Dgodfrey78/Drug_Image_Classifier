@@ -7,7 +7,7 @@ Navigate to project folder.
 
 Run:
 
-python3 DrugAppAlt.py
+python3 DrugApp.py
 
 Download image into project folder
 
